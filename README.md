@@ -1,4 +1,4 @@
-# Bootstrap-5-Wbsite
+# Bootstrap-5-Website
 build a bootstrap5 responsive website with [brad traversy](https://www.youtube.com/watch?v=4sosXZsdy-s)
 
 we have a complite responsive website where we have used most common bootstrap classes include **bootstrap flex classes** , **bootstrap grid system**,
